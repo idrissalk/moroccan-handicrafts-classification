@@ -17,31 +17,7 @@ Poufs · Tapis · Babouches · Bottes · Sacs · Sandales · Vestes
 - Architecture : ConvNeXt (pré-entraîné sur ImageNet) + couches de classification
 - Framework : TensorFlow / Keras
 - Taille d'entrée : 224 × 224
-- Accuracy sur le jeu de test : **XX %** _(à compléter)_
-
-## 📁 Structure du projet
-
-```
-moroccan-handicrafts-classification/
-├── app/
-│   └── app.py               # Interface Streamlit
-├── models/
-│   └── convnext_model.keras # Modèle entraîné
-├── notebooks/
-│   └── handicrafts_classification.ipynb  # Entraînement et évaluation
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
-## 🚀 Lancer le projet
-
-```bash
-git clone https://github.com/<ton-user>/moroccan-handicrafts-classification.git
-cd moroccan-handicrafts-classification
-pip install -r requirements.txt
-streamlit run app/app.py
-```
+- Accuracy sur le jeu de test : **99.29%** 
 
 ## 🛠️ Stack
 
