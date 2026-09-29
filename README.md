@@ -3,12 +3,10 @@
 Application web de **classification d'images** de produits artisanaux marocains,
 basée sur un modèle **ConvNeXt** (Transfer Learning) et déployée avec **Streamlit**.
 
-🔗 **Démo en ligne** : _ajouter le lien Streamlit Cloud ici_
-
 ## 📸 Aperçu
 
 _Ajouter une capture d'écran de l'application ici :_
-`<img width="1270" height="842" alt="Capture d&#39;écran 2026-09-29 150100" src="https://github.com/user-attachments/assets/8d3fa736-8fde-499e-9a2a-6d300e9351dc" />
+`[<img width="1270" height="842" alt="Capture d&#39;écran 2026-09-29 150100" src="https://github.com/user-attachments/assets/8d3fa736-8fde-499e-9a2a-6d300e9351dc" />]
 `
 
 ## 🎯 Catégories
